@@ -26,9 +26,4 @@ Languages: HTML • CSS • JS • Python (basic)
 Tools: Git • VSCode • GitHub Pages • Linux
 
 
-📫 Contact
-
-💼 [LinkedIn](https://www.linkedin.com/in/chady-haudestaine)  
-📧 [Email](mailto:tropbgsah@gmail.com)
-
 🔴 Made with passion by TBS / tropbgsah
