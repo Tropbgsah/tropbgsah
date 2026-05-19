@@ -23,6 +23,10 @@ Languages: HTML • CSS • JS • Python (basic)
 
 Tools: Git • VSCode • GitHub Pages • Linux
 
-<iframe src="https://giphy.com/embed/mTfNtiitbGjqE" width="480" height="245" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pizza-devil-may-cry-dante-mTfNtiitbGjqE">via GIPHY</a></p>
+<div align="center">
+
+<img src="https://media.giphy.com/media/mTfNtiitbGjqE/giphy.gif" width="600">
+
+</div>
 
 🔴 Made with passion by TBS / tropbgsah
