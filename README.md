@@ -23,10 +23,6 @@ Languages: HTML • CSS • JS • Python (basic)
 
 Tools: Git • VSCode • GitHub Pages • Linux
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/mTfNtiitbGjqE/giphy.gif" width="600">
-
-</div>
+![Dante](https://media.giphy.com/media/mTfNtiitbGjqE/giphy.gif)
 
 🔴 Made with passion by TBS / tropbgsah
