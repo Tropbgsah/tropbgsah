@@ -23,6 +23,4 @@ Languages: HTML • CSS • JS • Python (basic)
 
 Tools: Git • VSCode • GitHub Pages • Linux
 
-![Dante](https://media.giphy.com/media/mTfNtiitbGjqE/giphy.gif)
-
 🔴 Made with passion by TBS / tropbgsah
